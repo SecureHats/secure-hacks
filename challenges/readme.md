@@ -4,4 +4,4 @@
 
 | name | resourcetype | challenge | description |
 | - | - | - | - |
-| [SH-001](challenges/SH-001/readme.md) | Storage | SAS Tokens | over privileged token |
+| [SH-001](SH-001/readme.md) | Storage | SAS Tokens | over privileged token |
