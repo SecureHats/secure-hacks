@@ -1,7 +1,11 @@
-![logo](https://raw.githubusercontent.com/SecureHats/SecureHacks/main/media/sh-banners.png)
+![logo](https://securehats2022cth.blob.core.windows.net/pictures/sh-banners.png?sv=2021-06-08&ss=bfqt&srt=sco&sp=rlt&se=2025-07-18T03:43:38Z&st=2022-07-17T19:43:38Z&spr=https,http&sig=uZOVgsqNJsd%2FgnWbQ2sXECumbHEMnUJ8tyBGDitCmzo%3D)
 =========
-[![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?style=flat-square)]()
+[![Maintenance](https://img.shields.io/maintenance/yes/2022.svg?style=flat-square)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-# SecureHats Repo Template
+# SecureHats Capture the Hat - challenge
 
-This SecureHats repository is used to organize project information and artifacts. 
+## About this project
+
+To create more awareness of security in the Microsoft Azure Cloud, I have started this project. <br />
+The idea is to periodically create a new challenge that will gain access to another Azure resource. <br />Everyone should be able to complete the challeges without being a certified hacker. <br />
+
