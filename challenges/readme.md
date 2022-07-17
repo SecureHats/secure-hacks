@@ -2,6 +2,6 @@
 ================
 # Index
 
-| name | resourcetype | challenge |
-| - | - | - |
-| [SH-001](/challenges/SH-001) | Storage | Escape container |
+| name | resourcetype | challenge | description |
+| - | - | - | - |
+| [SH-001](challenges/SH-001/readme.md) | Storage | SAS Tokens | over privileged token |
