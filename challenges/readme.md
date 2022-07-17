@@ -1,4 +1,4 @@
-![logo](./media/sh-banners.png)
+![logo](../media/sh-banners.png)
 ================
 # Index
 
