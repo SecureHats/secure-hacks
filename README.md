@@ -2,10 +2,22 @@
 =========
 [![Maintenance](https://img.shields.io/maintenance/yes/2022.svg?style=flat-square)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-# SecureHats Capture the Hat - challenge
+
+# SecureHats - Capture the Hat
 
 ## About this project
 
 To create more awareness of security in the Microsoft Azure Cloud, I have started this project. <br />
-The idea is to periodically create a new challenge that will gain access to another Azure resource. <br />Everyone should be able to complete the challeges without being a certified hacker. <br />
+The idea is to periodically create a new challenge that will gain access to another Azure resource. <br />
+Everyone should be able to complete the challeges without being a certified hacker. <br />
 
+## Challenges
+
+| name | resourcetype | challenge | description |
+| - | - | - | - |
+| SH-001 | Storage | SAS Tokens | over privileged token |
+| SH-002 | Azure Function | FunctionApp | Exfiltrate data |
+
+### Contributions
+
+If you have an idea for a new challenge, please let me know by opening an issue. [link](https://github.com/SecureHats/secure-hacks/issues/new)
