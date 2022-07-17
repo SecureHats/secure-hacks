@@ -16,7 +16,7 @@ Everyone should be able to complete the challeges without being a certified hack
 
 | name | resourcetype | challenge | description |
 | - | - | - | - |
-| SH-001 | Storage | SAS Tokens | over privileged token |
+| [SH-001](challenges/SH-001/readme.md) | Storage | SAS Tokens | over privileged token |
 | SH-002 | Azure Function | FunctionApp | Exfiltrate data |
 
 ## Contributions
