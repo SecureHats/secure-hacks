@@ -7,9 +7,13 @@
 Welcome to the first CtH challenge for this year.<br />
 Somewhere on this page a clue is hidden in plain sight. The vulnerability is this challenge is a very common scenario that is oftenly overseen.<br />
 
-> The hidden flag in this challenge will give access to the next challege which can be found on the homepage of this project.
+> Note: The hidden flag in this challenge will give access to the next challege which can be found on the homepage of this project.
 
 Good luck!
+
+### Tools
+
+[SAS Token Scraper](https://gist.github.com/azurekid/5705f46fe3b38766b2a38223e250f511)
 
 ## Writeups
 
