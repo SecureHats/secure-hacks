@@ -7,11 +7,20 @@
 
 ## About this project
 
-To create more awareness of security in the Microsoft Azure Cloud, I have started this project. <br />
-The idea is to periodically create a new challenge that will gain access to another Azure resource. <br />
+To create more awareness on security in the Microsoft Azure Cloud, I have started a this project. <br />
+The idea is to periodically, hopefully weekly, create a new challenge that will give some more insights on the configuration risks. <br />
+All challenges are based on the CTF style, but because it is part of the SecureHats community if will be a CtH (Capture the Hat). <br /><br />
+During the challenges the player will be guided through different Azure resources. For now this will mostly be Cloud native resources that won't cost to much. This because I am running it in my own environment.
+
 <br />
 Everyone should be able to complete the challeges without being a certified hacker. <br />
+Information to resolve the challenges is public available, but requires some googling sometimes.<br />
+<br />
+Once a new challenge is available, it will be published on Twitter using the tag #SecureHats.<br />
+The table below will also be updated with a new link once the new challenge is ready.<br />
+<br />
 
+> The flag from challenge [SH-001](challenges/SH-001/readme.md) is required to continue with the next challenge! 
 ## Challenges
 
 | name | resourcetype | challenge | description |
