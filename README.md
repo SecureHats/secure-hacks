@@ -28,6 +28,15 @@ The table below will also be updated with a new link once the new challenge is r
 | [SH-001](challenges/SH-001/readme.md) | Storage | SAS Tokens | over privileged token |
 | SH-002 | Azure Function | FunctionApp | Exfiltrate data |
 
+
+## Writeups
+
+I love to contribute and learn from others, and writeups are an awesome way of learning new things or gain insights in different approaches.<br />
+So feel free to contribute and create a writeup of your solution.<br />
+To share your writeup, please create a PR on this project and add the file to the challenges folder
+
+> NOTE: Creating writeups are great! But please don't spoil the learning path of others by providing the answers. 
+
 ## Contributions
 
 If you have an idea for a new challenge, please let me know by opening an issue. [link](https://github.com/SecureHats/secure-hacks/issues/new)
