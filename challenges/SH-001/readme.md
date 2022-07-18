@@ -4,12 +4,19 @@
 
 ## SAS Tokens
 
-This is the first starting point of the CtH challenge.<br />
-Somewhere on this page a clue is hidden in plain sight. It is actually it is a very common scenario that is oftenly overseen.<br />
+Welcome to the first CtH challenge for this year.<br />
+Somewhere on this page a clue is hidden in plain sight. The vulnerability is this challenge is a very common scenario that is oftenly overseen.<br />
 
-The hidden flag in this challenge will give access to the next challege which can be found on the homepage of this project.
+> The hidden flag in this challenge will give access to the next challege which can be found on the homepage of this project.
 
 Good luck!
+
+## Writeups
+
+I love to contribute and learn from others, and writeups are an awesome way of learning new things or gain insights in different approaches.<br />
+So feel free to contribute and create a writeup of your solution.
+
+> NOTE: Creating writeups are great! But please don't spoil the learning path of others by providing the answers. 
 
 ## Contributions
 
