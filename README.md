@@ -26,7 +26,7 @@ The table below will also be updated with a new link once the new challenge is r
 
 | name | resourcetype | challenge | description |
 | - | - | - | - |
-| [SH-001](challenges/SH-001/readme.md) | Storage | SAS Tokens | over privileged token |
+| [SH-001](challenges/SH-001/readme.md) | Storage | SAS Tokens | Privileged token |
 | SH-002 | Azure Function | FunctionApp | Exfiltrate data |
 
 ## Writeups
