@@ -11,7 +11,7 @@ Somewhere on this page a clue is hidden in plain sight. The vulnerability is thi
 
 ### Post your answers
 
-After completion of the challenge you need to post your answers in this Microsoft Forms [link](https://forms.office.com/r/ELVPnKEGKH).<br />
+After completion of the challenge you need to post your answers in this Microsoft Forms [link](https://forms.office.com/r/qWWuyGJvWp).<br />
 This will help me keeping track of the usage and create a scoreboard for all participants.
 
 Good luck!
