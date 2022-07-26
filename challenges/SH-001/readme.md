@@ -9,6 +9,11 @@ Somewhere on this page a clue is hidden in plain sight. The vulnerability is thi
 
 > Note: The hidden flag in this challenge will give access to the next challege which can be found on the homepage of this project.
 
+### Post your answers
+
+After completion of the challenge you need to post your answers in this Microsoft Forms [link](https://forms.office.com/r/ELVPnKEGKH).<br />
+This will help me keeping track of the usage and create a scoreboard for all participants.
+
 Good luck!
 
 ### Tools
