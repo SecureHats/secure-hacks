@@ -1,24 +1,28 @@
 [![logo](https://securehats2022cth.blob.core.windows.net/pictures/sh-banners.png?sv=2021-06-08&ss=bfqt&srt=sco&sp=rlt&se=2025-07-18T03:43:38Z&st=2022-07-17T19:43:38Z&spr=https,http&sig=uZOVgsqNJsd%2FgnWbQ2sXECumbHEMnUJ8tyBGDitCmzo%3D)](https://securehats2022cth.blob.core.windows.net/pictures/sh-banners.png?sv=2021-06-08&ss=bfqt&srt=sco&sp=rlt&se=2025-07-18T03:43:38Z&st=2022-07-17T19:43:38Z&spr=https,http&sig=uZOVgsqNJsd%2FgnWbQ2sXECumbHEMnUJ8tyBGDitCmzo%3D)
 
-# Capture the Hat - SH-001
+# Capture The Hat SH-002
 
-## SAS Tokens
+In this challenge the user will get `read` access to a resource group in Microsoft Azure and needs to retrieve several _flags_ that are hidden within the provided resources. After provisioning the environment, the credentials of a unqiue account are shown together with a storage account. <br />
 
-Welcome to the first CtH challenge for this year.<br />
-Somewhere on this page a clue is hidden in plain sight. The vulnerability is this challenge is a very common scenario that is oftenly overseen.<br />
+![image](https://user-images.githubusercontent.com/40334679/181022219-dbf75935-bb16-4ad9-843d-4f14a67b67e9.png)
 
-> Note: The hidden flag in this challenge will give access to the next challege which can be found on the homepage of this project.
+Although the user only has `read` permissions to the resource group and `Storage Account Contributor` permissions to the _Storage Account_, this should be enough to exploit the FunctionApp permissions.
+
+### architecture
+
+![image](https://user-images.githubusercontent.com/40334679/181019379-4c2392cd-012b-4144-9179-017ba7398366.png)
+> architecture created with bicep visualizer
+
+## Azure Function Apps
+
+> Note: The hidden flags in this challenge are required will give access to the next challege which can be found on the homepage of this project.
 
 ### Post your answers
 
-After completion of the challenge you need to post your answers in this Microsoft Forms [link](https://forms.office.com/r/qWWuyGJvWp).<br />
-This will help me keeping track of the usage and create a scoreboard for all participants.
+After completion of the challenge you need to post your answers in this Microsoft Forms [link](https://forms.office.com/r/ELVPnKEGKH).<br />
+This will help me keeping track of the usage of the challenges and create a scoreboard for all participants.
 
 Good luck!
-
-### Tools
-
-[SAS Token Scraper](https://gist.github.com/azurekid/5705f46fe3b38766b2a38223e250f511)
 
 ## Writeups
 
